@@ -56,9 +56,6 @@ I am a passionate **Cybersecurity student** focused on building clean, functiona
   <a href="mailto:eid.sarah11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sarah-eid-1a559332b)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
 
 <br />
